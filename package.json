@@ -1,0 +1,10 @@
+{
+  "name": "react-okta-lib",
+  "description": "Additional components to help bridge the use of React and Okta",
+  "author": "Matthew Shooks <shooksm@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
